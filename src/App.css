@@ -1,0 +1,44 @@
+.App-header {
+  display: flex;
+  font-size: 20px;
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-image {
+  height: 300px;
+  width: 180px;
+}
+
+.App-description {
+  height: 80px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.bg-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px !important;
+  background: #000;
+  padding: 16px !important;
+  height: 20px;
+  width: 100%;
+}
+
+.detail-image {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 1px solid #000;
+}
+
+.detail-comic-list {
+  color: white;
+  font-size: 20px;
+}
